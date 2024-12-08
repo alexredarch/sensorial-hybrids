@@ -12,3 +12,6 @@ config.env
 # Ignore logs and cache files
 *.log
 *.sqlite3
+
+# Ignore Github Stup
+github_setup.sh
