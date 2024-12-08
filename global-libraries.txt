@@ -1,9 +1,20 @@
+# Python & Virtual Environment Tools
 python3
 python3-pip
 python3-venv
 python3-full
+
+# Audio and Sound Tools
 ffmpeg
 alsa-utils
 libasound2-dev
+
+# Camera and Image Processing
 python3-opencv
 python3-picamera2
+
+# Bluetooth Tools
+bluez
+pulseaudio
+pulseaudio-module-bluetooth
+
